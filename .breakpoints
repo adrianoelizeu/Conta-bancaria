@@ -1,0 +1,32 @@
+{
+  "files": {
+    "banco.c": [
+      {
+        "id": "c4f74cd9-4151-4884-a39e-b1a90b421c21",
+        "line": 15,
+        "version": 6222,
+        "index": 181
+      },
+      {
+        "id": "2505448c-d640-4eda-8c7a-0da0d8162c7e",
+        "line": 31,
+        "version": 6222,
+        "index": 470
+      }
+    ],
+    "conta.h": [
+      {
+        "id": "1953e127-3244-40eb-b6d7-dd0c7db53295",
+        "line": 1,
+        "version": 962,
+        "index": 0
+      },
+      {
+        "id": "ec79190f-79b8-4066-ad2b-e38e6bd4244b",
+        "line": 24,
+        "version": 962,
+        "index": 368
+      }
+    ]
+  }
+}
